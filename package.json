@@ -1,8 +1,8 @@
 {
   "private": false,
-  "name": "example-company-website-gatsby-sanity-combo",
+  "name": "gatsby-sanity-company-demo",
   "version": "1.0.0",
-  "author": "Sanity <hello@sanity.io>",
+  "author": "Eric Hodges",
   "scripts": {
     "clean": "lerna clean",
     "deploy": "lerna run deploy",
@@ -20,5 +20,8 @@
   "devDependencies": {
     "lerna": "^3.13.1",
     "rimraf": "^2.6.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:sanity-io/example-company-website-gatsby-sanity-combo.git",
+  "license": "MIT"
 }
