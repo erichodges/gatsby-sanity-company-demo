@@ -32,6 +32,7 @@
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-react": "^7.12.4",
     "eslint-plugin-standard": "^4.0.0",
+    "fstream": "1.0.12",
     "lodash": "4.17.15",
     "lodash.template": "4.5.0",
     "prettier-eslint-cli": "^4.7.1",
