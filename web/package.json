@@ -41,6 +41,6 @@
     "lodash": "4.17.21",
     "lodash.template": "4.5.0",
     "prettier-eslint-cli": "^4.7.1",
-    "tar": "4.4.10"
+    "tar": "4.4.15"
   }
 }
